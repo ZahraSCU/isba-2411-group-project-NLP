@@ -7,7 +7,6 @@
 - Zahra Fahimfar
 - Varsha Pai
 - Krystle Dario
-- 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZahraSCU/isba-2411-group-project-NLP/blob/main/Milestone2_Baseline_and_Representation_%28Zahra%29.ipynb)
 
 ## Project Overview
