@@ -1,6 +1,6 @@
 # 💊 MedReview Insight
 
-**AI-powered analysis of patient-written medication reviews**
+**NLP-powered analysis of patient-written medication reviews**
 
 MedReview Insight is a research and educational NLP application that analyzes the satisfaction expressed in medication reviews. It predicts whether a review reflects **low**, **medium**, or **high** satisfaction, explains important language signals, and retrieves semantically similar patient experiences.
 
