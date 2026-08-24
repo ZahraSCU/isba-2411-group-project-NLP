@@ -8,6 +8,15 @@ MedReview Insight is a research and educational NLP application that analyzes th
 
 > **Research and educational use only.** This project summarizes patient-reported experiences and model predictions. It does not diagnose, prescribe, or recommend treatment.
 
+## Team
+
+**ISBA 2411 – Group 1**
+
+- Zahra Fahimfar
+- Varsha Pai
+- Krystle Jozen Dario
+
+
 
 https://github.com/user-attachments/assets/4c9b55f7-fa41-49c7-891f-36042b129c99
 
@@ -244,13 +253,7 @@ Stop the previous Streamlit process or restart the runtime before launching the 
 - Perform a larger human evaluation of retrieval relevance
 - Add stronger automated tests and deployment monitoring
 
-## Team
 
-**ISBA 2411 — Group 1**
-
-- Zahra Fahimfar
-- Varsha Pai
-- Krystle Jozen Dario
 
 ## Technology Stack
 
