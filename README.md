@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/4c9b55f7-fa41-49c7-891f-36042b129c99
-
 # 💊 MedReview Insight
 
 **AI-powered analysis of patient-written medication reviews**
@@ -9,6 +7,14 @@ https://github.com/user-attachments/assets/4c9b55f7-fa41-49c7-891f-36042b129c99
 MedReview Insight is a research and educational NLP application that analyzes the satisfaction expressed in medication reviews. It predicts whether a review reflects **low**, **medium**, or **high** satisfaction, explains important language signals, and retrieves semantically similar patient experiences.
 
 > **Research and educational use only.** This project summarizes patient-reported experiences and model predictions. It does not diagnose, prescribe, or recommend treatment.
+
+
+https://github.com/user-attachments/assets/4c9b55f7-fa41-49c7-891f-36042b129c99
+
+
+
+
+
 
 ## Project Overview
 
