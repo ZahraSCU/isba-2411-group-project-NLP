@@ -17,6 +17,7 @@ MedReview Insight is a research and educational NLP application that analyzes th
 - Krystle Jozen Dario
 
 
+## Recorded Demo
 
 https://github.com/user-attachments/assets/4c9b55f7-fa41-49c7-891f-36042b129c99
 
